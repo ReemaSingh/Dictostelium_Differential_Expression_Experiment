@@ -8,7 +8,9 @@ Identify Differential Expressed Genes in DgcA null mutant and Knock-out samples 
 ## Alignmnet using Tophat
 
   ./try.sh
+  
   ./try1.sh
+  
   ./try2.sh
   
 ## Alignmnet Visualization
@@ -25,6 +27,8 @@ Identify Differential Expressed Genes in DgcA null mutant and Knock-out samples 
   
 ## Gene-Set Enrichment Analysis
 
+  R CMD BATCH GSEA.R
+  
 # Publication
 
 Chen ZH, Singh R, Cole C, Lawal HM, Schilde C, Febrer M, Barton GJ, Schaap P. Adenylate cyclase A acting on PKA mediates induction of stalk formation by cyclic diguanylate at the Dictyostelium organizer. Proceedings of the National Academy of Sciences. 2017 Jan 17;114(3):516-21.
