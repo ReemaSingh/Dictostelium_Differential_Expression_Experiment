@@ -1,3 +1,6 @@
+#################################################
+# Written by Dr. Reema Singh #
+#################################################
 	files <- list.files(pattern="*-sortIGV.bam_duplRem.bam$")
 	for(i in 1:length(files)){
 	output <- paste(files[i],"_sort",sep="")
