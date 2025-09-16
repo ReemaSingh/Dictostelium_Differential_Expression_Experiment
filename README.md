@@ -37,3 +37,7 @@ https://github.com/bartongroup/rs-Dictostelium_Differential_Expression_Experimen
 # Publication
 
 Chen ZH, Singh R, Cole C, Lawal HM, Schilde C, Febrer M, Barton GJ, Schaap P. Adenylate cyclase A acting on PKA mediates induction of stalk formation by cyclic diguanylate at the Dictyostelium organizer. Proceedings of the National Academy of Sciences. 2017 Jan 17;114(3):516-21.
+
+# Author
+This script was created by Dr. Reema Singh
+
