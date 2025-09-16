@@ -1,3 +1,7 @@
+#################################################
+# Written by Dr. Reema Singh #
+#################################################
+
 	files <- list.files(pattern = ".count$")
 	data = lapply(files, function(x)read.table(x))	
 	count = as.data.frame(data)
