@@ -1,4 +1,7 @@
-	targets <- read.table(file="targets",header=TRUE)
+#################################################
+# Written by Dr. Reema Singh #
+#################################################
+targets <- read.table(file="targets",header=TRUE)
 	mainDir <-"/homes/rsingh/Ensemble"
 	for(i in seq(along=targets[,1])){
 	outDir <- paste("QC_",targets[,1][i],sep="")
