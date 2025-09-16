@@ -1,3 +1,6 @@
+#################################################
+# Written by Dr. Reema Singh #
+#################################################
 	a <- read.table(file="EnrichedGeneCategory.txt",sep="\t",header=TRUE)
 	cat <- read.table(file="Ontology/OntologyUsed",header=TRUE)
 
