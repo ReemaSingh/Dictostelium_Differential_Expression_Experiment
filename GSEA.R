@@ -1,3 +1,6 @@
+#################################################
+# Written by Dr. Reema Singh #
+#################################################
 a <- rep(c(0),each=8939)
 gene <- read.table(file="GeneName.txt",header=TRUE)
 names(a) <- gene$x
