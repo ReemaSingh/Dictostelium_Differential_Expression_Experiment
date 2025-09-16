@@ -1,3 +1,6 @@
+#################################################
+# Written by Dr. Reema Singh #
+#################################################
 	targets <- read.table(file="targets",header=TRUE)
 	gtf <- "DictyEnsemble.gtf"	
 	for(i in 1:nrow(targets)){
